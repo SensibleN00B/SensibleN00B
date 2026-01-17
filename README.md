@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Lovable.dev-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white" alt="Lovable" />
 
 **Database & Cloud**
 <br>
@@ -54,34 +55,42 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+<img src="https://img.shields.io/badge/VPS_Deploy-%23FF9900.svg?style=for-the-badge&logo=linux&logoColor=black" alt="VPS" />
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions" />
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SensibleN00B&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SensibleN00B&theme=dark&hide_border=true" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SensibleN00B&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
-</p>
+<div align="center">
+
+[![SensibleN00B's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SensibleN00B&theme=dark&show_icons=true&hide_border=true)](https://github.com/SensibleN00B)
+
+[![SensibleN00B's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SensibleN00B&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/SensibleN00B)
+
+[![SensibleN00B's Streak](https://streak-stats.demolab.com?user=SensibleN00B&theme=dark&hide_border=true)](https://github.com/SensibleN00B)
+
+</div>
 
 ### 🏆 Trophies
-<p align="center">
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SensibleN00B&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=SensibleN00B&icon=0&color=0" alt="Visitors" />
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="https://www.buymeacoffee.com/sensiblenoob">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-</p>
+</div>
