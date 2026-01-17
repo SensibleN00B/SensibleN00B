@@ -15,10 +15,10 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on **building AI-powered backends with FastAPI and RAG systems**
-- 👯 I’m looking to collaborate on **open-source AI agents or complex Python backend tools**
-- 🤝 I’m looking for help with **advanced DevOps pipelines and React patterns**
-- 🌱 I’m currently learning **Frontend development (React + TypeScript) and DevOps workflows**
+- 🔭 I'm currently working on **building AI-powered backends with FastAPI and RAG systems**
+- 👯 I'm looking to collaborate on **open-source AI agents or complex Python backend tools**
+- 🤝 I'm looking for help with **advanced DevOps pipelines and React patterns**
+- 🌱 I'm currently learning **Frontend development (React + TypeScript) and DevOps workflows**
 - 💬 Ask me about **Python, FastAPI, LangChain, and integrating LLMs into apps**
 - ⚡ Fun fact: **I love playing local co-op games in my free time 🎮**
 
@@ -65,26 +65,30 @@
 
 <div align="center">
 
-[![SensibleN00B's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SensibleN00B&theme=dark&show_icons=true&hide_border=true)](https://github.com/SensibleN00B)
+![SensibleN00B's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SensibleN00B&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-[![SensibleN00B's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SensibleN00B&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/SensibleN00B)
+![SensibleN00B's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SensibleN00B&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-[![SensibleN00B's Streak](https://streak-stats.demolab.com?user=SensibleN00B&theme=dark&hide_border=true)](https://github.com/SensibleN00B)
+![SensibleN00B's Streak](https://streak-stats.demolab.com?user=SensibleN00B&theme=dark&hide_border=true)
 
 </div>
+
+---
 
 ### 🏆 Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SensibleN00B&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SensibleN00B&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SensibleN00B&icon=0&color=0" alt="Visitors" />
+
+![Visitors](https://visitcount.itsvg.in/api?id=SensibleN00B&icon=0&color=0)
+
 </div>
 
 <br>
